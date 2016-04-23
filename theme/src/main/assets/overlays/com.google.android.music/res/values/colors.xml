@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="play_music_primary">@*common:color/primary_orange</color>
+    <color name="play_music_secondary">@*common:color/secondary_orange</color>
+    <color name="primary_material_dark">#ffef6c00</color>
+    <color name="primary_material_light">#ffef6c00</color>
+    <color name="primary_dark_material_dark">#ffef6c00</color>
+    <color name="primary_dark_material_light">#ffef6c00</color>
+
+</resources>

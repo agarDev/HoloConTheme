@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="red">@*common:color/primary_red</color>
+    <color name="theme_native_color_primary">@*common:color/primary_red</color>
+    <color name="color_primary">@*common:color/secondary_red</color>
+    <color name="theme_main_color_primary">@*common:color/secondary_red</color>
+    <color name="app_bar_primary_background">@*common:color/primary_red</color>
+    <color name="theme_main_color_primary_dark">@*common:color/primary_red</color>
+
+</resources>

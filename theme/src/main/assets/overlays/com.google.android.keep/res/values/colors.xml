@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_selected_color">@*common:color/primary_blue</color>
+    <color name="action_bar_background_color">@*common:color/primary_blue</color>
+    <color name="primary_material_dark">@*common:color/primary_blue</color>
+    <color name="active_action_bar_background_color">@*common:color/primary_blue</color>
+    <color name="primary_material_light">@*common:color/primary_blue</color>
+    <color name="primary_dark_material_dark">@*common:color/secondary_blue</color>
+    <color name="primary_dark_material_light">@*common:color/secondary_blue</color>
+    <color name="primary_color_dark">@*common:color/secondary_blue</color>
+    <color name="accent_color">@*common:color/primary_blue</color>
+    <color name="primary_color">@*common:color/primary_blue</color>
+    <color name="action_bar_text_color">@*common:color/white</color>
+</resources>

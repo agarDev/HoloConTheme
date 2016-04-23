@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<color name="quantum_googred800">@*common:color/primary_red</color>
+    <color name="quantum_googred500">@*common:color/secondary_red</color>
+    <color name="compose_button_background_color">@*common:color/yellow</color>
+    <color name="compose_button_pressed_background_color">@*common:color/yellow</color>
+    <color name="compose_button_tint">@*common:color/yellow</color>
+    <color name="compose_label_hint">@*common:color/black</color>
+    <color name="compose_user_text">@*common:color/black</color>
+
+</resources>

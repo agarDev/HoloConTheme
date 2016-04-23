@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+   
+    <color name="primary_dark_material_dark">@*common:color/secondary_green</color>
+    <color name="primary_material_dark">@*common:color/secondary_green</color>
+    <color name="m_cool_grey_70">@*common:color/black</color>
+    <color name="m_app_secondary">@*common:color/secondary_green</color>
+    <color name="m_app_status_bar">@*common:color/secondary_green</color>
+
+</resources>

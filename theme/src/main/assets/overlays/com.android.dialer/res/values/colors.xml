@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialer_theme_color">@*common:color/primary_blue</color>
+    <color name="dialer_theme_color_dark">@*common:color/secondary_blue</color>
+    <color name="background_dialpad">#ffffffff</color>
+    <color name="background_dialpad_pressed">@*common:color/secondary_blue</color>
+    <color name="dialpad_primary_text_color">#ff262626</color>
+    <color name="dialpad_secondary_text_color">#ff212121</color>
+    <color name="dialpad_digits_text_color">#ff1e1e1e</color>
+    <color name="dialpad_icon_tint">#ff242424</color>
+	
+    
+</resources>

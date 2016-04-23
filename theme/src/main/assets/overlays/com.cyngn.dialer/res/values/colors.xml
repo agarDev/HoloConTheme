@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Color Config -->
+    <color name="dialer_theme_color">@*common:color/primary_blue</color>
+    <color name="dialer_theme_color_dark">@*common:color/secondary_blue</color>
+    <color name="background_dialpad">#ffffffff</color>
+    <color name="background_dialpad_pressed">@*common:color/secondary_blue</color>
+
+
+    <!-- Dial Pad Colors -->
+    <color name="dialpad_separator_line_color">#00ffffff</color>
+    <color name="dialpad_icon_tint">#ff242424</color>
+    <color name="dialpad_primary_text_color">@*common:color/pink</color>
+    <color name="dialer_dialpad_touch_tint">@*common:color/pink</color>
+
+
+    <!-- tab colors -->
+    <color name="tab_accent_color">@*common:color/secondary_blue</color><!--Tab Underline Color-->
+    <color name="tab_ripple_color">@*common:color/secondary_blue</color>
+    <color name="searchbox_icon_tint">@*common:color/secondary_blue</color>
+    <color name="nav_tab_item_selected_color">@*common:color/secondary_blue</color>
+    <color name="nav_tab_item_underline_color">@*common:color/secondary_blue</color>
+
+</resources>

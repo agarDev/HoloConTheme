@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings" >
+        <item name="android:colorPrimary">@*common:color/primary_blue</item>
+        <item name="android:statusBarColor">@*common:color/secondary_blue</item>
+        <item name="android:colorAccent">@*common:color/primary_magenta</item>
+        <item name="android:dividerVertical">@drawable/list_divider_alpha</item>
+    </style>
+    
+    <style name="Theme.SubSettings" parent="@android:style/Theme.Material.Settings" >
+        <item name="android:colorPrimary">@*common:color/primary_blue</item>
+        <item name="android:statusBarColor">@*common:color/secondary_blue</item>
+        <item name="android:colorAccent">@*common:color/settings_accent</item>
+    </style>
+
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.Settings" >
+        <item name="android:colorPrimary">@*common:color/primary_blue</item>
+        <item name="android:statusBarColor">@*common:color/secondary_blue</item>
+        <item name="android:colorAccent">@*common:color/settings_accent</item>
+    </style>
+
+     <style name="Theme.SubSettingsDialogWhenLarge" parent="@android:style/Theme.Material.Settings" >
+        <item name="android:colorPrimary">@*common:color/primary_blue</item>
+        <item name="android:statusBarColor">@*common:color/secondary_blue</item>
+        <item name="android:colorAccent">@*common:color/settings_accent</item>
+     </style>
+
+</resources>

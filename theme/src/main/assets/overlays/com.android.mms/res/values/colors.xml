@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    <color name="mms_theme_color">@*common:color/primary_blue</color>
+    <color name="mms_theme_color_dark">@*common:color/secondary_blue</color>
+    <color name="mms_theme_color_accent">@*common:color/white</color>
+    <color name="floating_action_button_icon_color">@*common:color/yellow</color>
+
+</resources>

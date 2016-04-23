@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SuperSU's Colors-->
+
+<resources>
+	<!--Action Bar, Accent and Background-->
+    <color name="material_teal_500">@*common:color/secondary_blue</color>
+    <color name="material_teal_900">@*common:color/primary_blue</color>
+    <color name="material_teal_950">@*common:color/primary_blue</color>
+    <color name="material_white">@*common:color/white</color>
+
+	<!--Miscellaneous Chainfire Colors-->
+    <color name="material_teal_50">#222</color>
+    <color name="material_teal_100">@*common:color/secondary_blue</color>
+    <color name="material_teal_200">@*common:color/secondary_blue</color>
+    <color name="material_teal_300">@*common:color/secondary_blue</color>
+    <color name="material_teal_400">@*common:color/secondary_blue</color>
+    <color name="material_teal_600">@*common:color/secondary_blue</color>
+    <color name="material_teal_700">@*common:color/secondary_blue</color>
+    <color name="material_teal_800">@*common:color/secondary_blue</color>
+</resources>

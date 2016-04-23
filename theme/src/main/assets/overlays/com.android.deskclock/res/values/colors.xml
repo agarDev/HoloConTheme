@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <color name="hot_pink">@*common:color/primary_blue</color>
+    <color name="blue">@*common:color/primary_blue</color>
+    <color name="darker_blue">@*common:color/secondary_blue</color>
+    <color name="default_background">@*common:color/secondary_blue</color>
+  
+  
+
+  
+
+</resources>

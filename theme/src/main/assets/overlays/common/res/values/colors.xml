@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<color name="black">#ff000000</color>
+	<color name="white">#ffffffff</color>
+    <color name="grey">#ff455b66</color>
+    <color name="yellow">#ffeffb41</color>
+    <color name="pink">#ffff4081</color>
+
+    <color name="primary_green">#ff2cc684</color>
+    <color name="secondary_green">#ff29b478</color>
+
+    <color name="primary_magenta">#ffe91e63</color>
+	<color name="secondary_magenta">#ffab2050</color>
+
+    <color name="primary_blue">#ff00bcd4</color>
+    <color name="secondary_blue">#ff0097a7</color>
+
+    <color name="primary_red">#ffdc5b5b</color>
+    <color name="secondary_red">#ffff6b6b</color>
+
+    <color name="primary_orange">#fff1af4f</color>
+    <color name="secondary_orange">#ffdd8e1b</color>
+
+
+    <color name="settings_icons">#ff0097a7</color>
+    <color name="settings_accent">#ffff4081</color>
+
+    <!-- For Emerald Theme -->
+    <color name="primary_emerald">#ff2ecc71</color>
+    <color name="secondary_emerald">#ff219251</color>
+
+    <!-- For Pomegranate Theme -->
+    <color name="primary_pomegranate">#ffc0392b</color>
+    <color name="secondary_pomegranate">#ffa73125</color>
+
+    <!-- For Earth Theme -->
+    <color name="primary_earth">#ff785447</color>
+    <color name="secondary_earth">#ff604339</color>
+
+
+    <color name="cm_filemanager">#ffE3A657</color>
+    <color name="cm_filemanager_dark">#ffE09839</color>
+    <color name="cm_filemanager_bg_light">#ffF0F6F4</color>
+
+</resources>

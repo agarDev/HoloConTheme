@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="app_color">@*common:color/secondary_red</color>
+    <color name="play_light_grey">@*common:color/secondary_red</color>
+    <color name="default_status_color">@*common:color/primary_red</color>
+    <color name="material_deep_teal_500">@*common:color/secondary_red</color>
+    <color name="material_blue_grey_800">@*common:color/secondary_red</color>
+    <color name="material_blue_grey_900">@*common:color/secondary_red</color>
+    <color name="primary_material_light">@*common:color/secondary_red</color>
+    <color name="primary_dark_material_light">@*common:color/secondary_red</color>
+    <color name="play_movies_primary">@*common:color/secondary_red</color>
+    <color name="play_movies_secondary">@*common:color/secondary_red</color>
+    <color name="play_movies_light">@*common:color/secondary_red</color>
+    <color name="asset_details_status_color">@*common:color/secondary_red</color>    
+</resources>
+ 

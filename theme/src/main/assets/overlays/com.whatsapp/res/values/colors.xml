@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primary">@*common:color/primary_blue</color>
+    <color name="primary_dark">@*common:color/secondary_blue</color>
+	<color name="accent">@*common:color/secondary_blue</color>
+</resources>

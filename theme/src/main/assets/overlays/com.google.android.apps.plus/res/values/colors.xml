@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item type="color" name="action_bar_background">@*common:color/secondary_red</item>
+    <item type="color" name="quantum_googred500">@*common:color/yellow</item>
+    <item type="color" name="quantum_googred700">@*common:color/primary_red</item>
+    
+</resources>

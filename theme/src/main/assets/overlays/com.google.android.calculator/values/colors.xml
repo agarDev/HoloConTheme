@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="calculator_accent_color">@*common:color/primary_blue</color>
+	<color name="pad_numeric_background_color">#ff222222</color>
+	<color name="pad_operator_background_color">#ff4a4949</color>
+	<color name="pad_advanced_background_color">@*common:color/primary_blue</color>
+    <color name="pad_button_advanced_text_color">#ffffff</color>
+	<color name="calculator_error_color">@*common:color/settings_accent</color>
+</resources>

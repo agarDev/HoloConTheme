@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="quantum_googgreen700">@*common:color/primary_green</color>
+    <color name="quantum_googgreen500">@*common:color/primary_green</color>
+    <color name="quantum_googgreen400">@*common:color/primary_green</color>
+    <color name="default_status_bar_color">@*common:color/secondary_green</color>
+	
+</resources>

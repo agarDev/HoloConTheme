@@ -49,6 +49,6 @@ Other than these, if you would like to get in touch with me, please contact me o
 
 ## Licenses
 ### Theme & Icon Packs:
-HoloCon Theme by Contributors of HoloCon Theme, is licensed under a Creative Commons Attribution 4.0 International License.
+**HoloCon** Theme by Contributors of HoloCon Theme, is licensed under a **Creative Commons Attribution 4.0 International License**.
 
-Moonshine Icon Pack, is licensed under a Creative Commons Attribution 4.0 International License.
+**Moonshine** Icon Pack, is licensed under a **Creative Commons Attribution 4.0 International License**.

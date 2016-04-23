@@ -1,5 +1,6 @@
 ## HoloCon CM13/12.x Theme
 ![HoloCon](https://raw.githubusercontent.com/agarDev/HoloConTheme/master/theme/src/main/res/drawable-xxxhdpi/ic_launcher.png)
+
 HoloCon  is a delightful CyanogenMod theme that sticks to the basics yet applies some refreshing and beautiful enhancements, you truly deserve on you device.
 
 ## Google Play Link:

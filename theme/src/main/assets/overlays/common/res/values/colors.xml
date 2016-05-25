@@ -5,7 +5,7 @@
 	<color name="black">#ff000000</color>
 	<color name="white">#ffffffff</color>
     <color name="grey">#ff455b66</color>
-    <color name="yellow">#ffeffb41</color>
+    <color name="yellow">#ffFDD835</color>
     <color name="pink">#ffff4081</color>
 
     <color name="primary_green">#ff2cc684</color>
@@ -17,8 +17,8 @@
     <color name="primary_blue">#ff00bcd4</color>
     <color name="secondary_blue">#ff0097a7</color>
 
-    <color name="primary_red">#ffdc5b5b</color>
-    <color name="secondary_red">#ffff6b6b</color>
+    <color name="primary_red">#ffe53935</color>
+    <color name="secondary_red">#ffb71c1c</color>
 
     <color name="primary_orange">#fff1af4f</color>
     <color name="secondary_orange">#ffdd8e1b</color>

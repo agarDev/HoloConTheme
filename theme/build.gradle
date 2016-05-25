@@ -8,8 +8,8 @@ android {
         applicationId "com.holocon.mayur.theme"
         minSdkVersion 21
         targetSdkVersion 23
-        versionCode 30
-        versionName "1.10.04.10"
+        versionCode 31
+        versionName "1.11.00.00"
     }
     buildTypes {
         release {

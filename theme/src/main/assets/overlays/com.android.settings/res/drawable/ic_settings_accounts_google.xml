@@ -1,3 +1,0 @@
-<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
-    android:src="@*common:drawable/ic_settings_accounts_google"
-    android:tint="@*common:color/settings_icons" />

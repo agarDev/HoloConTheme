@@ -2,8 +2,8 @@
 
 <resources>
 
-	<color name="quantum_googred800">@*common:color/primary_red</color>
-    <color name="quantum_googred500">@*common:color/secondary_red</color>
+	<color name="quantum_googred800">@*common:color/secondary_blue</color> <!-- primary_red -->
+    <color name="quantum_googred500">@*common:color/primary_blue</color> <!-- secondary_red -->
     <color name="compose_button_background_color">@*common:color/yellow</color>
     <color name="compose_button_pressed_background_color">@*common:color/yellow</color>
     <color name="compose_button_tint">@*common:color/yellow</color>

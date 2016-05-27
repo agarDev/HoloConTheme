@@ -4,9 +4,9 @@
     
     <style name="GmailTheme" parent="@android:style/Theme.Material.Settings" >
 
-        <item name="android:colorPrimary">@*common:color/primary_red</item>
-        <item name="android:colorPrimaryDark">@*common:color/secondary_red</item>
-        <item name="android:colorAccent">@*common:color/primary_red</item>
+        <item name="android:colorPrimary">@*common:color/secondary_blue</item> <!-- primary_red -->
+        <item name="android:colorPrimaryDark">@*common:color/secondary_blue</item> <!-- secondary_red -->
+        <item name="android:colorAccent">@*common:color/primary_blue</item> <!-- primary_red -->
 
     </style>
 
